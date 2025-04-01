@@ -47,6 +47,6 @@ def run_quiz(questions):
         print("\n\nManually interrupted, thanks for playing!\n")
 
 if __name__ == "__main__":
-    questions_json_path = '' 
+    questions_json_path = 'dump_no_duplicates.json' 
     questions = load_questions(questions_json_path)
     run_quiz(questions)

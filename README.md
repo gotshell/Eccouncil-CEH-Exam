@@ -4,7 +4,7 @@ Just a collection of Eccouncil CEH Certification exam questions dump.
 At the moment of writing the json contains 260 unique questions.
 
 
-*UPDATE*
+*UPDATE*  
 As part of my preparation for the Certified Ethical Hacker (CEH) exam, I developed a web-based application to practice and reinforce key cybersecurity concepts.
 
 Live App: https://ceh.rootpwn.com/
